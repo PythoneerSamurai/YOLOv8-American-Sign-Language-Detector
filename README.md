@@ -32,7 +32,7 @@ pip install ultralytics
 
 Afterwards, just open the 'main.py' file in the IDE or text editor of your choice, and specifiy the absolute path to the model file (a portion of the path is already written in the main.py file, so that you don't get confused)
 
-![App Screenshot](https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/fb34c680-8298-4620-9218-81d1744ff1aa)
+![App Screenshot](https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/f7599ea3-0e8a-4f4f-bba2-0befcd066ae6)
 
 Then you need to specify the source, it can be any one of the options available in the list of inference sources on the following website:
 
