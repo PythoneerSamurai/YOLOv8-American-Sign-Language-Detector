@@ -14,7 +14,13 @@ You can either clone my repository by running the following command in your term
  git clone https://github.com/PythoneerSamurai/American-Sign-Language-Alphabets-Object-Detector.git
 ```
 
+![App Screenshot](https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/6db95127-a824-4c24-8535-33e0acedcd96)
+
+
 Otherwise, you can just download this project in the form of a ZIP file, by clicking the 'green code button' and then clicking the 'download ZIP' button.
+
+![App Screenshot](https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/9edc06fa-d16e-4064-b093-2d713dc94a52)
+
     
 ## Usage
 
@@ -25,6 +31,8 @@ pip install ultralytics
 ```
 
 Afterwards, just open the 'main.py' file in the IDE or text editor of your choice, and specifiy the absolute path to the model file (a portion of the path is already written in the main.py file, so that you don't get confused)
+
+![App Screenshot](https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/fb34c680-8298-4620-9218-81d1744ff1aa)
 
 Then you need to specify the source, it can be any one of the options available in the list of inference sources on the following website:
 
