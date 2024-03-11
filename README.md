@@ -41,6 +41,13 @@ https://docs.ultralytics.com/modes/predict/#inference-sources
 Also, you can choose the inference source to be you webcam, source=0
 
 
+## Results
+Real Images
+![App Screenshot](https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/ed92861c-400c-4836-b1b4-9b65eb8556c9)
+
+Model Predictions
+![App Screenshot](https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/54a6d9fd-ed81-42a9-8bf5-e7508b38b531)
+
 ## Acknowledgements
 
  - [Dataset from Roboflow Universe]([https://universe.roboflow.com/reza-ohnxn/dental2-ztmiq/dataset/3](https://universe.roboflow.com/david-lee-d0rhs/american-sign-language-letters/dataset/6))
