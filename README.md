@@ -14,7 +14,7 @@ You can either clone my repository by running the following command in your term
  https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector.git
 ```
 
-![App Screenshot](https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/6db95127-a824-4c24-8535-33e0acedcd96)
+![App Screenshot]("https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/f73298e2-ce88-4c80-ad1e-b411ffbb29f2")
 
 
 Otherwise, you can just download this project in the form of a ZIP file, by clicking the 'green code button' and then clicking the 'download ZIP' button.
