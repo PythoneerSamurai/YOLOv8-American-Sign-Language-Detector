@@ -11,7 +11,7 @@ An Object Detection Model trained in YOLOv8, that detects American Sign Language
 You can either clone my repository by running the following command in your terminal (remember to open the terminal in the folder you want this project in)
 
 ```bash
- git clone https://github.com/PythoneerSamurai/American-Sign-Language-Alphabets-Object-Detector.git
+ https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector.git
 ```
 
 ![App Screenshot](https://github.com/PythoneerSamurai/YOLOv8-American-Sign-Language-Detector/assets/112153865/6db95127-a824-4c24-8535-33e0acedcd96)
